@@ -1,0 +1,23 @@
+Design Diary for Milestone 1 2d Card Game in Unity 2D
+
+I liked doing this assignment since it is the second time I have used Unity and it is not all that difficult to 
+understand on how it’s intended to work especially, since as the author of the video that we used 
+mentions that unity has many options available to get the same things done. Although I say that it was 
+not all that difficult, for me personally I still have much to learn when it comes down to it. I have worked 
+with 3d object-oriented programs already but the ones that I learned used Java whereas here for Unity 
+we are using C#. Luckily, I feel that they are not all that different in terms of their overall usage to code a 
+program. There are differences but I am happy to be able to learn a new programming language at the 
+same time as learning to use and interact with a video game development tool. The main things that I 
+had some difficulty with was setting up git on my local computer and figuring out how to push, pull, and 
+commit my work to the repository that I created and making sure that my work was saved correct. I had 
+never used it before but after learning how to use it, I can see why it is used as a useful tool to save my 
+projects and coding onto a platform that I can share with others and also have saved somewhere else 
+other than my own computer. One issue that I kept having was that when I was writing the scripts for 
+some of the game objects, I ran into compiler issues which I eventually figured out by overlooking my 
+entire code and finding simple syntax errors which I simply need to brush up on to make sure that my 
+syntax is good. Some advice that I would give to others when making this project is to check your syntax 
+and debug your code, making sure that it follows the video tutorials instructions. I would also suggest 
+trying to remember the reasons for why doing something works like adding certain components to your 
+game objects and probably take notes on the process. One aspect of the project that I liked was how the 
+tutorial used prefabs and separate folders for your coding that you could easily duplicate and use again 
+which is something I like overall about programming and it is a good skill that I’m glad was brought up here.
